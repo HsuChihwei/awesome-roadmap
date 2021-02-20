@@ -1,6 +1,14 @@
 # Awesome Roadmaps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > collect roadmaps awesome
 
+## Language
+- [https://github.com/datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+- [https://github.com/Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
+## Data
+- [https://github.com/AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- [https://github.com/MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap)
+- [https://github.com/datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+
 ### Roadmaps【[This part forked from awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)】 
 * [Go developer roadmap 2019](https://github.com/Alikhll/golang-developer-roadmap)
 * [Web developer roadmap 2019](https://github.com/kamranahmedse/developer-roadmap)
